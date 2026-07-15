@@ -5,8 +5,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oreoxxyyy456&show_icons=true&locale=en&layout=compact" alt="oreoxxyyy456" />
-<img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oreoxxyyy456&" alt="oreoxxyyy456" />
+<img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" />
 </div>
 
 # Hi 👋 I'm Oreo
