@@ -119,6 +119,13 @@ Laravel       ██░░░░░░░░░░░░░ 15%
 
 </p-->
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/OReoxxyyy456/OReoxxyyy456/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OReoxxyyy456&theme=github-dark"/>
@@ -126,7 +133,7 @@ Laravel       ██░░░░░░░░░░░░░ 15%
 ## 👀 Visitors
 
 ![](https://komarev.com/ghpvc/?username=OReoxxyyy456&style=for-the-badge&color=blue)
-
+ 
 > **"Try and learn something new every day."**
 
 <p align="center">
