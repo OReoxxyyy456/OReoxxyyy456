@@ -3,11 +3,13 @@
   <img height="211" src="https://thumbs.dreamstime.com/b/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg?w=768" />
 </div> 
 
+<br>
 <div align="center">
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=oreoxxyyy456&show_icons=true&locale=en&layout=compact" alt="oreoxxyyy456" /-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oreoxxyyy456&" alt="oreoxxyyy456" />
 <!--img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" /-->
 </div>
+</br>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=60"/>
