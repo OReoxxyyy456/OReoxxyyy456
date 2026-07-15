@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=60"/>
+</p>
+
 <br>
 <div align="center">
   <img height="211" src="https://thumbs.dreamstime.com/b/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg?w=768" />
@@ -10,10 +14,6 @@
 <!--img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" /-->
 </div>
 </br>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=60"/>
-</p>
 
 <!--p align="center">
 
@@ -107,4 +107,18 @@ Laravel       ██░░░░░░░░░░░░░ 15%
 
 </p>
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OReoxxyyy456&theme=github-dark"/>
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=OReoxxyyy456&style=for-the-badge&color=blue)
+
 > **"Try and learn something new every day."**
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F6FEB"/>
+
+</p>
