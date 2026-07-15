@@ -13,11 +13,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=60"/>
 </p>
 
-<p align="center">
+<!--p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+Web+Developer;Information+Systems+Student;Future+Full+Stack+Developer;Always+Learning+New+Things" />
 
-</p>
+</p-->
 
 <!--div align="center">
 
