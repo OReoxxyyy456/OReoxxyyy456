@@ -109,7 +109,7 @@ Laravel       ██░░░░░░░░░░░░░ 15%
 - 💡 Boosting Logic and Algorithm
 -->
 
-## 🌍 Connect With Me
+<!--## 🌍 Connect With Me
 
 <!--p align="left">
 
