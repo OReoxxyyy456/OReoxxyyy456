@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=OReoxxyyy456&show_icons=true&theme=github_dark)
+[![Stats](https://github-readme-stats.vercel.app/api?username=OReoxxyyy456&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=OReoxxyyy456&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OReoxxyyy456&layout=compact&theme=github_dark)
 
