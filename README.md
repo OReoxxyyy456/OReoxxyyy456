@@ -4,38 +4,78 @@
 </div> 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oreoxxyyy456&show_icons=true&locale=en&layout=compact" alt="oreoxxyyy456" />
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs?username=oreoxxyyy456&show_icons=true&locale=en&layout=compact" alt="oreoxxyyy456" /-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oreoxxyyy456&" alt="oreoxxyyy456" />
-<img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" />
+<!--img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" /-->
 </div>
 
-# Hi 👋 I'm Oreo
+<div align="center">
 
-### 💻 Junior Web Developer
-### 🎓 Information Systems Student at Universitas AMIKOM Yogyakarta
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Pom's;Junior+Web+Developer;Information+Systems+Student;Future+Full+Stack+Developer" />
 
----
+</div>
 
-## 👨‍💻 About Me
+## 🚀 Tech Stack
 
-- 🌱 Currently learning HTML, CSS, JavaScript
-- 🚀 Future Full Stack Developer
-- 💡 Interested in Web Development & Information Systems
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,git,github,vscode,php,laravel,mysql&perline=6"/>
 
-## 🛠 Tech Stack
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+## 📚 Learning Roadmap
 
----
+```text
+🌐 Frontend
+│
+├── HTML            ✅
+├── CSS             ✅
+├── JavaScript      🔄
+├── Bootstrap       🔄
+└── Responsive UI   ⏳
 
-## 📊 GitHub Stats
+⚙️ Backend
+│
+├── PHP             🔄
+├── Laravel         ⏳
+└── REST API        ⏳
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=OReoxxyyy456&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=OReoxxyyy456&show_icons=true&theme=github_dark)
+🗄️ Database
+│
+├── MySQL           ⏳
+└── PostgreSQL      ⏳
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OReoxxyyy456&layout=compact&theme=github_dark)
+🛠️ Tools
+│
+├── Git             ✅
+├── GitHub          ✅
+├── VS Code         ✅
+└── Figma           ⏳
 
----
+🚀 Future
+│
+├── React.js        ⏳
+├── Node.js         ⏳
+├── Docker          ⏳
+└── AWS             ⏳
+```
 
-> "Try and learn something new every day."
+## 💡 Current Focus
+
+- 🌱 Learning JavaScript deeply
+- 💻 Building responsive websites
+- 📚 Understanding programming logic
+- 🚀 Preparing for Full Stack Development
+- 💡 Boosting Logic and Algorithm
+
+## 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/OReoxxyyy456">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+> **"Try and learn something new every day."**
