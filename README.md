@@ -100,23 +100,24 @@ Laravel       ██░░░░░░░░░░░░░ 15%
 ```
 -->
 
-## 💡 Current Focus
+<!--## 💡 Current Focus
 
 - 🌱 Learning JavaScript and Python deeply
 - 💻 Building responsive websites
 - 📚 Understanding programming logic
 - 🚀 Preparing for Full Stack Development
 - 💡 Boosting Logic and Algorithm
+-->
 
 ## 🌍 Connect With Me
 
-<p align="left">
+<!--p align="left">
 
 <a href="https://github.com/OReoxxyyy456">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</p-->
 
 ## 📈 Contribution Graph
 
