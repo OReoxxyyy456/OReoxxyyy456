@@ -16,3 +16,25 @@
 <img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oreoxxyyy456&" alt="oreoxxyyy456" />
 </div> 
+
+👋 Hi, I'm Oreo
+
+🎓 Information Systems Student @ Universitas AMIKOM Yogyakarta
+
+💻 Junior Web Developer
+
+🌱 Currently Learning
+HTML • CSS • JavaScript • Git • GitHub • PHP • Laravel
+
+🎯 Goal
+Become a Full Stack Web Developer
+
+🚀 Interested In
+Web Development
+UI/UX
+Information Systems
+Open Source
+
+☕ Motto
+Try and learn something new.
+
