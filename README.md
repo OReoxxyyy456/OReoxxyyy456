@@ -1,7 +1,3 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20|%20Learning%20by%20doing%20"/>
-</p>
-
 <br>
 <div align="center">
   <img height="211" src="https://thumbs.dreamstime.com/b/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg?w=768" />
@@ -14,6 +10,10 @@
 <!--img src="https://github-readme-stats.vercel.app/api?username=oreoxxyyy456&show_icons=true&locale=en" alt="oreoxxyyy456" /-->
 </div>
 </br>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F6FEB&text=Hi,%20I'm%20Pom's&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20|%20Learning%20by%20doing%20"/>
+</p>
 
 <!--p align="center">
 
