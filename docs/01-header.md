@@ -1,6 +1,29 @@
-<br>
-<div align="center">
-  <img height="211" src="https://thumbs.dreamstime.com/b/programmer-problems-funny-meme-programmers-copying-pasting-code-coding-industry-social-media-sharing-267302479.jpg?w=768" />
-</div> 
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img src="assets/banner.svg" width="100%">
+
+</p>
+
+<h1 align="center">
+
+Hi, I'm Pom's 👋
+
+</h1>
+
+<p align="center">
+
+Junior Web Developer • Information Systems Student
+
+</p>
+
+<p align="center">
+
+Building • Learning • Improving
+
+</p>
 
 <br>
