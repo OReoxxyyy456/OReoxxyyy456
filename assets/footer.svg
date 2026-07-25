@@ -1,1 +1,19 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="100%">
+
+<stop offset="0%" stop-color="#0D1117"/>
+
+<stop offset="100%" stop-color="#1F6FEB"/>
+
+</linearGradient>
+
+</defs>
+
+<path d="M0,40 C250,120 450,0 650,60 C850,120 1050,20 1200,70 L1200,120 L0,120 Z"
+
+fill="url(#footer)"/>
+
+</svg>
