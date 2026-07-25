@@ -1,27 +1,71 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
 
-<defs>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
 
-<stop offset="0%" stop-color="#0D1117"/>
+  <!-- Glow -->
+  <circle cx="1050" cy="70" r="160" fill="#58A6FF" opacity="0.08"/>
+  <circle cx="250" cy="220" r="180" fill="#58A6FF" opacity="0.05"/>
 
-<stop offset="50%" stop-color="#161B22"/>
+  <!-- Divider -->
+  <line x1="0" y1="220" x2="1200" y2="220" stroke="#58A6FF" opacity="0.12"/>
+  <line x1="0" y1="170" x2="1200" y2="170" stroke="#58A6FF" opacity="0.08"/>
 
-<stop offset="100%" stop-color="#1F6FEB"/>
+  <!-- Title -->
+  <text
+    x="70"
+    y="95"
+    fill="#FFFFFF"
+    font-size="52"
+    font-family="Segoe UI"
+    font-weight="700">
 
-</linearGradient>
+    Hi, I'm Pom's
 
-</defs>
+  </text>
 
-<rect width="1200" height="260" fill="url(#bg)"/>
+  <!-- Subtitle -->
+  <text
+    x="72"
+    y="140"
+    fill="#79C0FF"
+    font-size="24"
+    font-family="Segoe UI">
 
-<circle cx="1050" cy="70" r="160" fill="#58A6FF" opacity="0.08"/>
+    Junior Web Developer
 
-<circle cx="250" cy="220" r="180" fill="#58A6FF" opacity="0.05"/>
+  </text>
 
-<line x1="0" y1="220" x2="1200" y2="220" stroke="#58A6FF" opacity="0.12"/>
+  <!-- Motto -->
+  <text
+    x="72"
+    y="175"
+    fill="#C9D1D9"
+    font-size="18"
+    font-family="Segoe UI">
 
-<line x1="0" y1="170" x2="1200" y2="170" stroke="#58A6FF" opacity="0.08"/>
+    Building • Learning • Improving
+
+  </text>
+
+  <!-- Small Text -->
+  <text
+    x="72"
+    y="205"
+    fill="#8B949E"
+    font-size="15"
+    font-family="Consolas">
+
+    Always building one commit at a time.
+
+  </text>
 
 </svg>
