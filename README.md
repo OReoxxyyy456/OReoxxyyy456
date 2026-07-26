@@ -143,6 +143,7 @@ Goal:
 <table align="center">
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 Frontend
@@ -166,9 +167,11 @@ Goal:
 | <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="22"/> Laravel | ⏳ Planned |
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛠️ Tools
@@ -194,6 +197,28 @@ Goal:
 
 ### 🎯 Current Goal
 
-```text
-Become a
-Full Stack Developer 🚀
+> 🚀 Become a **Full Stack Developer**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ======================================================== -->
+<!--                 FEATURED PROJECTS                        -->
+<!-- ======================================================== -->
+
+## 📌 Featured Projects
+
+> 💡 *Projects I've built while learning web development.*
+
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🌐 Business Landing Page | Responsive website using HTML, CSS & JavaScript |
+| 📦 Inventory System | Simple CRUD application |
+| 📝 Attendance System | PHP + MySQL |
+| 💼 Portfolio Website | Personal branding website |
+| 🚀 More Coming Soon... | Currently building new projects |
