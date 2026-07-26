@@ -52,6 +52,7 @@ Current Learning:
 
 Goal:
   Become a Full Stack Developer 🚀
+```
 
 <!-- ======================================================== -->
 <!--                     TECH STACK                           -->
