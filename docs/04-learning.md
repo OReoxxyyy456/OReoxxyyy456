@@ -4,30 +4,67 @@
 
 ## 📚 Current Learning
 
-```text
-🌐 Frontend
+> 🚀 *Learning isn't about finishing, it's about improving every day.*
 
-HTML5          ██████████░░ 85%
+<br>
 
-CSS3           █████████░░░ 80%
+<table align="center">
 
-JavaScript     ██████░░░░░░ 55%
+<tr>
+<td width="50%" valign="top">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🌐 Frontend
 
-⚙️ Backend
+| Technology | Status |
+|------------|--------|
+| <img src="https://skillicons.dev/icons?i=html&theme=dark" width="22"/> HTML5 | 🟢 Comfortable |
+| <img src="https://skillicons.dev/icons?i=css&theme=dark" width="22"/> CSS3 | 🟢 Comfortable |
+| <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="22"/> JavaScript | 🟡 Learning |
 
-Python         █████░░░░░░░ 45%
+</td>
 
-PHP            ███░░░░░░░░░ 30%
+<td width="50%" valign="top">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ⚙️ Backend
 
-🛠 Tools
+| Technology | Status |
+|------------|--------|
+| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="22"/> Python | 🟡 Learning |
+| <img src="https://skillicons.dev/icons?i=php&theme=dark" width="22"/> PHP | 🌱 Beginner |
+| <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="22"/> Laravel | ⏳ Planned |
 
-Git            ████████░░░░
+</td>
+</tr>
 
-GitHub         ████████░░░░
+<tr>
+<td width="50%" valign="top">
 
-VS Code        ██████████░░
-```
+### 🛠️ Tools
+
+| Tool | Status |
+|------|--------|
+| <img src="https://skillicons.dev/icons?i=git&theme=dark" width="22"/> Git | 🟢 Daily Use |
+| <img src="https://skillicons.dev/icons?i=github&theme=dark" width="22"/> GitHub | 🟢 Daily Use |
+| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="22"/> VS Code | 🟢 Main IDE |
+| 🚀 Antigravity IDE | 🟡 Exploring |
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Design
+
+| Tool | Status |
+|------|--------|
+| <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="22"/> Figma | 🟡 Learning |
+
+<br>
+
+<h3 align="center">🎯 Current Goal</h3>
+
+<p align="center">
+
+<b>Become a</b><br>
+<b>Full Stack Developer 🚀</b>
+
+</p>
