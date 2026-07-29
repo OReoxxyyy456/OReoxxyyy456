@@ -14,13 +14,13 @@ Hi, I'm Pom's 👋
 
 Junior Web Developer • Information Systems Student
 
-</h3>
+</h3-->
 
-<p align="center">
+<!--p align="center">
 
 Building • Learning • Improving
 
-</p>
+</p-->
 
 <p align="center">
 
